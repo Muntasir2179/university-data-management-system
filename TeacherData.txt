@@ -1,0 +1,11 @@
+MSK1
+258
+35
+Dhaka
+Male
+01472583692
+msk1@gmail.com
+Sat Apr 30 00:00:00 BDT 2022
+Professor
+360000
+CSE173

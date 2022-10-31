@@ -1,0 +1,22 @@
+Tanvir
+1234
+27
+Pabna
+tanvir@gmail.com
+Thu Feb 03 00:00:00 BDT 2022
+Male
+01739372627
+CSE
+3.69
+120
+rifat hassan
+147
+23
+Dhaka
+rifat@gmail.com
+Fri Feb 04 00:00:00 BDT 2022
+Female
+0147258369
+CSE
+3.56
+60
